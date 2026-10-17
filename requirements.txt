@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pypdf
+langchain
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+sentence-transformers
+faiss-cpu
+rank-bm25
